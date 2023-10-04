@@ -1,2 +1,2 @@
 # APIs
-A practice repository containing various API builds from scratch.
+A practice repository containing various API builds from scratch in various languages.
